@@ -1,0 +1,49 @@
+body{
+    background-color: aqua;
+}
+
+img{
+    padding:10px 200px;
+    width:1000px;
+    height: 40vh;
+    
+}
+
+p{
+    padding:50px;
+    font-size: 1.2rem;
+}
+
+.btn{
+    display: inline-block;
+    border-radius: 30%;
+    border: 1px solid gray;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+#blue{
+    background-color: cyan;
+
+}
+
+#black{
+    background-color: black;
+    
+}
+
+#pink{
+    background-color: pink;
+    
+}
+
+
+#white{
+    background-color: white;
+    
+}
+
+.switcher{
+    text-align: right;
+    padding:10px;
+}
